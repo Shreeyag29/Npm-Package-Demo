@@ -1,0 +1,19 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "<Description of what the package does> ## Usage Install the package using npm :  npm install is-null-or-empty --save Then, require the package and use it:  [Comment: To check if this usage is proper]  var isNullOrEmpty = require('is-null-or-empty');  console.log(isNullOrEmpty(\"\")); // true  console.log(isNullOrEmpty(\"Hello World\")); // false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreeyag29/Npm-Package-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreeyag29/Npm-Package-Demo/issues"
+  },
+  "homepage": "https://github.com/Shreeyag29/Npm-Package-Demo#readme"
+}
